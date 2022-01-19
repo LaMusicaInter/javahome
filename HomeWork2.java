@@ -1,7 +1,7 @@
 /**
  * Java 1. Homework 2
  *
- * @author Elizabeth Sukhoruchko
+ * @author Elizabeth Soukhoruchko
  * @version 19.01.2022
  */
 class Lesson2HomeWork {
