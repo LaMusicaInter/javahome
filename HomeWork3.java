@@ -4,8 +4,8 @@
  * @author Elizabeth Sukhoruchko
  * @version 25.01.2022
  */
-import java.until.Arrays;
-import java.until.Random;
+import java.util.Arrays;
+import java.util.Random;
 
 class LessonHomeWork3 {
     
