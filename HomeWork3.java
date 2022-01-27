@@ -48,5 +48,5 @@ class LessonHomeWork3 {
         // 5. Create and fill an array with the same values
         int[] arrFive = createAndFllArray(15, 5);
         System.out.println(Arrays.toString(arrFive));
-	}
+    }
 }
