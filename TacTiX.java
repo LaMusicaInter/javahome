@@ -4,8 +4,8 @@
  * @author Elizabeth Sukhoruchko
  * @version 25.01.2022
  */
- import java.until.Random;
- import java.until.Scanner;
+ import java.util.Random;
+ import java.util.Scanner;
  
  class TacTiX {
 
