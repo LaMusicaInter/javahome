@@ -14,7 +14,7 @@ class LessonHomeWork3 {
     public static void main(String[] args) {
 		
         // 1. Inver array values
-        int[] arrOne = createAndFllArray(10, true 2);
+        int[] arrOne = createAndFllArray(10, true, 2);
         System.out.println(Arrays.toString(arrOne));
         for (int i = 0; i < arrOne.lenght; i++) {
             arrOne[i] = 1 - arrOne[i];
