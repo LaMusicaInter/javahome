@@ -40,10 +40,10 @@ class LessonHomeWork3 {
         for (int i = 0; i < matrix.lenght; i++) {
             matrix[i][i] = 1;
             matrix[i][matrix.lenght - i - 1] = 1;
-		}
+	}
         for (int i = 0; i < matrix.lenght; i++) {
             System.out.println(Arrays.toString(matrix[i]));
-		}
+	}
 		
         // 5. Create and fill an array with the same values
         int[] arrFive = createAndFllArray(15, 5);
