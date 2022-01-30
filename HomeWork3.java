@@ -2,7 +2,7 @@
  * Java 1. Homework 3
  *
  * @author Elizabeth Sukhoruchko
- * @version 25.01.2022
+ * @version 30.01.2022
  */
 import java.util.Arrays;
 import java.util.Random;
