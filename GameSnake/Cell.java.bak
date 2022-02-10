@@ -1,0 +1,10 @@
+import java.awt.Graphics2D;
+import java.awt.Color;
+
+/**
+* Java 1. Classic Game Snake
+* Class Cell: minimal bulding element
+*
+*@author Elizabeth Sukhoruchko
+*@version 10.02.2022
+*/
